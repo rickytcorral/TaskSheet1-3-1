@@ -1,4 +1,8 @@
-public class Meal {
+public class Task131 {
+
+    
+}
+ class Meal {
     String[] ingredients;
 
     public Meal(String[] ingredients) {
